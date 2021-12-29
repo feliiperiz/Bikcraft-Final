@@ -1,21 +1,17 @@
 /* Geral */
-@import './global/global.css';
-@import './util/tipografia.css';
-@import './global/header.css';
+@import "./global/global.css";
+@import "./util/tipografia.css";
+@import "./global/header.css";
 
 /* Utilidades */
-@import './util/componentes.css';
-@import './util/cores.css';
+@import "./util/componentes.css";
+@import "./util/cores.css";
 
 /* Home */
-@import './home/introducao.css';
-@import './home/tecnologia.css';
-@import './home/parceiros.css';
+@import "./home/introducao.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 
 /* Bicicletas */
-@import './bicicletas/bicicletas-lista.css';
-
-
-
-
-
+@import "./bicicletas/bicicletas-lista.css";
