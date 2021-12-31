@@ -8,8 +8,7 @@
   gap: 40px;
   padding-top: 60px;
   padding-bottom: 60px;
-  background: url("../../img/dec/top-right.svg") no-repeat top 40px right
-  20px;
+  background: url("../../img/dec/top-right.svg") no-repeat top 40px right 20px;
 }
 
 .bicicletas-imagem {
@@ -17,7 +16,6 @@
 }
 
 .bicicletas-imagem img {
-  border-radius: 4px;
   grid-area: 1/1;
 }
 
@@ -25,8 +23,8 @@
   grid-area: 1/1;
   place-self: start end;
   margin-top: 20px;
-  display: inline-block;
   background: var(--cor-12);
+  display: inline-block;
   padding: 8px 16px 8px 8px;
   border-radius: 4px 0 0 4px;
 }
@@ -51,7 +49,7 @@
   display: block;
   width: 12px;
   height: 8px;
-  background: var(--cor-p1);
+  background-color: var(--cor-p1);
   margin-bottom: 8px;
 }
 
@@ -94,13 +92,11 @@
   .bicicletas-conteudo {
     grid-template-columns: 1fr;
   }
-
   .bicicletas ul {
     font-size: 1rem;
     grid-template-columns: 1fr 1fr;
     margin-bottom: 32px;
   }
-
   .bicicletas a {
     place-self: start;
   }

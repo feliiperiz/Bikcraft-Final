@@ -13,6 +13,6 @@
 }
 
 .termos p {
-  max-height: 75ch;
+  max-width: 75ch;
   margin-bottom: 24px;
 }
